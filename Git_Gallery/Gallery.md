@@ -9,7 +9,7 @@ width: 1024
 height: 1366
 ---
 # Cave Painting
-![A cave painting showing a circle dance.](./1.jpg)  
+![A cave painting showing a circle dance.](./1_upscale.png)  
 Dance Scene (Date unknown)
 
 # Bronze age Painting
@@ -17,7 +17,7 @@ Dance Scene (Date unknown)
 circa approx. 3000BC-300BC
 
 # 1350
-![A painting of medieval dancers.](./3.jpg)  
+![A painting of medieval dancers.](./3_upscale.png)  
 Panel of Roman de la rose (medieval poem)
 
 # 1514
