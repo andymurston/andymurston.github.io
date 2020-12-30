@@ -42,7 +42,7 @@ La ronde de la Jeunesse - _Pablo Picasso_
 
 # 2010
 ![Metal sculpture of multiple figures circle dancing](./9.jpg)  
-Sculptre (RESEARCH NAME) _Tom Friedman_
+Sculpture Circle Dance _Tom Friedman_
 
 # 2014
 ![Block colour image of dancers in modern leotards circle dancing](./10.jpg)  
